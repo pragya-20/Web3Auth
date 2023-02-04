@@ -69,6 +69,6 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
 
-# API Key and Secret was wrong--> copy paste properly
+API Key and Secret was wrong--> copy paste properly
 
-# Add elevated access in twitter developer portal
+Add elevated access in twitter developer portal
